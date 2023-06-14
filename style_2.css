@@ -1,0 +1,351 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+   
+    font-family: 'Inter', sans-serif;
+    
+    
+}
+
+.Blok_1{
+   background-image: url(image/Rectangle\ 2_1.jpg);
+   position: absolute;
+   width: 1520px;
+   height: 600px;
+   
+   
+
+}
+
+.menu-list{
+    display: flex;
+    list-style: none;
+    margin-left: 320px;
+    margin-top: 4px;
+    
+}
+.menu{
+    text-decoration: none;
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 19px;
+   
+    color: #FFFFFF;
+}
+.menu_li{
+    padding: 19px;
+  margin-top: 20px;
+  text-decoration: none;
+}
+
+.menu_li:hover .menu{
+    color: #F5B83F;
+    transition: 300ms;
+}
+
+
+.logo{
+   
+   width: 99px;
+   height: 99px;
+}
+
+.hh_1{
+    position: absolute;
+    width: 434px;
+    height: 88px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 44px;
+    text-align: center;
+    top: 176px;
+    left: 560px;
+    color: #F5B83F;
+
+}
+
+.Blok_2{
+    position: absolute;
+    width: 1520px;
+    height: 3600px;
+    top: 600px;
+    background-image: url(image/dostoprimechatelnosti-ingushetii\ 3\ [problembo.com].jpg)
+}
+
+.image_1{
+    position: absolute;
+    width: 334px;
+    height: 491px;
+    top: 86px;
+    left: 331px;
+}
+
+.zagolovok_1{
+    position: absolute;
+    width: 481px;
+    height: 39px;
+    top: 159px;
+    left: 710px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 39px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.zagolovok_2{
+    position: absolute;
+    width: 599px;
+    height: 116px;
+    top: 308px;
+    left: 710px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 58px;
+    color: #FFFFFF;
+}
+
+.zagolovok_3{
+    position: absolute;
+    width: 312px;
+    height: 44px;
+    top: 706px;
+    left: 604px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 44px;
+    color: #FFFFFF;
+}
+
+
+
+.biografiya_1{
+    position: absolute;
+    width: 978px;
+    height: 442px;
+    top: 839px;
+    left: 331px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 44px;
+    color: #FFFFFF; 
+}
+
+.biografiya_2{
+    position: absolute;
+    width: 978px;
+    height: 281px;
+    top: 1304px;
+    left: 331px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 44px;
+    color: #FFFFFF; 
+}
+
+.biografiya_3{
+    position: absolute;
+    width: 978px;
+    height: 281px;
+    top: 1600px;
+    left: 331px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 44px;
+    color: #FFFFFF; 
+}
+
+.biografiya_4{
+    position: absolute;
+    width: 978px;
+    height: 281px;
+    top: 2030px;
+    left: 331px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 44px;
+    color: #FFFFFF; 
+}
+
+
+.image_2{
+    position: absolute;
+    width: 409px;
+    height: 264px;
+    top: 2499px;
+    left: 331px;
+}
+
+.image_3{
+    position: absolute;
+    width: 394.5px;
+    height: 263px;
+    top: 2499px;
+    right: 331px;
+}
+
+.image_4{
+    position: absolute;
+    width: 409px;
+    height: 270.34px;
+    top: 2871px;
+    left: 331px;
+}
+
+.image_5{
+    position: absolute;
+    width: 394px;
+    height: 270px;
+    top: 2871px;
+    right: 331px;
+}
+
+.footer{
+    position: absolute;
+    width: 1520px;
+    height: 283px;
+    top: 3317px;
+    background: rgba(0, 0, 0, 0.5);
+}
+
+.footer_zagolovok{
+    position: absolute;
+    width: 169px;
+    height: 45px;
+    top: 52px;
+    left: 135px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 45px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.footer_image_1{
+    position: absolute;
+    width: 21px;
+    height: 21px;
+    top: 118px;
+    left: 135px;
+}
+
+.footer_1{
+    position: absolute;
+    width: 230px;
+    height: 33px;
+    top: 114px;
+    left: 172px;
+    text-decoration: none;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 30px;
+    text-align: center;
+    color: #FFFFFF;
+    
+}
+
+:hover.footer_1{
+     color: #F5B83F;
+    transition: 300ms;
+}
+
+.footer_image_2{
+    position: absolute;
+    width: 21px;
+    height: 21px;
+    top: 168px;
+    left: 135px;
+}
+
+.footer_2{
+    position: absolute;
+    width: 195px;
+    height: 30px;
+    top: 159px;
+    left: 172px;
+    text-decoration: none;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 30px;
+    text-align: center;
+    color: #FFFFFF;
+    
+}
+
+:hover.footer_2{
+     color: #F5B83F;
+    transition: 300ms;
+}
+
+.footer_image_3{
+    position: absolute;
+    width: 43px;
+    height: 36px;
+    top: 200px;
+    left: 124px;  
+}
+
+.footer_3{
+    position: absolute;
+    width: 657px;
+    height: 30px;
+    top: 205px;
+    left: 172px;
+    text-decoration: none;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 30px;
+    text-align: center;
+    color: #FFFFFF;
+    
+}
+
+:hover.footer_3{
+    color: #F5B83F;
+   transition: 300ms;
+}
+
+.footer_image_4{
+    position: absolute;
+    width: 51px;
+    height: 51px;
+    top: 78px;
+    left: 1085px;
+}
+
+
+.footer_image_5{
+    position: absolute;
+    width: 51px;
+    height: 51px;
+    top: 78px;
+    left: 1155px;
+}

@@ -1,0 +1,708 @@
+@media(max-width: 834px){
+    .Blok_1{
+    background-image: url(img/Rectangle\ 22.jpg);
+    position: absolute;
+    width: 834px;
+    height: 170.57px;
+    left: 0px;
+    top: 0px;
+    }   
+
+    .menu-list{
+        display: flex;
+        list-style: none;
+        margin-left: 187px;
+        margin-top: 1px;
+       
+        
+        
+    }
+    .menu{
+        text-decoration: none;
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 8px;
+        line-height: 10px;
+        
+        color: #FFFFFF;
+    }
+    .menu_li{
+      padding: 13px;
+      
+      margin-top: 1px;
+      text-decoration: none;
+    }
+    
+    .menu_li:hover .menu{
+        color: #F5B83F;
+        transition: 300ms;
+    }
+
+    .logo{
+       
+        width: 40px;
+        height: 40px;
+        margin-top: 1px;
+     }
+
+     .hh_1{
+        position: absolute;
+        width: 239px;
+        height: 29px;
+        left: 297px;
+        top: 57px;
+
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 24px;
+        line-height: 29px;
+        /* identical to box height */
+
+        text-align: center;
+
+        color: #F5B83F;
+     }
+
+     .Blok_2{
+        position: absolute;
+        width: 834px;
+        height: 1672px;
+        left: 0px;
+        top: 171px;
+        background-image: url(img/dostoprimechatelnosti-ingushetii\ 33.jpg)  
+     }
+
+     .image_1{
+        position: absolute;
+        width: 116px;
+        height: 182px;
+        left: 180px;
+        top: 11px;
+     }
+
+     .zagolovok_1{
+        position: absolute;
+        width: 263px;
+        height: 19px;
+        left: 326px;
+        top: 36px;
+        
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 16px;
+        line-height: 19px;
+        text-align: center;
+        
+        color: #FFFFFF;
+     }
+
+     .zagolovok_2{
+        position: absolute;
+        width: 332px;
+        height: 62px;
+        left: 337px;
+        top: 92px;
+        
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 24px;
+        line-height: 29px;
+        
+        color: #FFFFFF;
+     }
+
+     .zagolovok_3{
+        position: absolute;
+        width: 166px;
+        height: 24px;
+        left: 329px;
+        top: 246px;
+        
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 18px;
+        line-height: 22px;
+        
+        color: #FFFFFF;
+     }
+
+     .biografiya_1{
+        position: absolute;
+        width: 536px;
+        height: 213px;
+        left: 149px;
+        top: 323px;
+        
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 18px;
+        line-height: 22px;
+        
+        color: #FFFFFF;
+     }
+
+     .biografiya_2{
+        position: absolute;
+        width: 536px;
+        height: 122px;
+        left: 149px;
+        top: 536px;
+        
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 18px;
+        line-height: 22px;
+        
+        color: #FFFFFF;
+     }
+
+     .biografiya_3{
+        position: absolute;
+        width: 536px;
+        height: 135px;
+        left: 149px;
+        top: 670px;
+        
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 18px;
+        line-height: 22px;
+        
+        color: #FFFFFF;
+     }
+
+     .biografiya_4{
+        position: absolute;
+        width: 536px;
+        height: 135px;
+        left: 149px;
+        top: 890px;
+        
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 18px;
+        line-height: 22px;
+        
+        color: #FFFFFF;
+     }
+
+     .image_2{
+        position: absolute;
+        width: 240px;
+        height: 161px;
+        left: 149px;
+        top: 1098px;
+     }
+
+     .image_3{
+        position: absolute;
+        width: 240px;
+        height: 161px;
+        left: 445px;
+        top: 1098px;
+     }
+
+     .image_4{
+        position: absolute;
+        width: 240px;
+        height: 161px;
+        left: 149px;
+        top: 1301px;
+     }
+
+     .image_5{
+        position: absolute;
+        width: 240px;
+        height: 161px;
+        left: 445px;
+        top: 1301px;
+     }
+
+     .footer{
+        position: absolute;
+        width: 834px;
+        height: 115px;
+        left: 0px;
+        top: 1557px;
+        
+        background: rgba(0, 0, 0, 0.5);
+    }
+
+    .footer_zagolovok{
+        position: absolute;
+        width: 93px;
+        height: 19.02px;
+        left: 74px;
+        top: 12.68px;
+        
+        
+        font-style: normal;
+        font-weight: 400;
+        font-size: 18px;
+        line-height: 22px;
+        text-align: center;
+        
+        color: #FFFFFF;
+    }
+
+    .footer_image_1{
+        position: absolute;
+        width: 12px;
+        height: 10.87px;
+        left: 80px;
+        top: 42.56px;
+    }
+
+    .footer_1{
+        position: absolute;
+        width: 111px;
+        height: 13.58px;
+        left: 101px;
+        top: 39.84px;
+        
+       
+        font-style: normal;
+        font-weight: 400;
+        font-size: 12px;
+        line-height: 15px;
+        text-align: center;
+        
+        color: #FFFFFF;
+    }
+
+    .footer_image_2{
+        position: absolute;
+        width: 12px;
+        height: 10.87px;
+        left: 80px;
+        top: 61.57px;
+    }
+
+    .footer_2{
+        position: absolute;
+        width: 106.99px;
+        height: 18.21px;
+        left: 101px;
+        top: 57.95px;
+        
+        
+        font-style: normal;
+        font-weight: 400;
+        font-size: 12px;
+        line-height: 15px;
+        
+        color: #FFFFFF;
+    }
+
+    .footer_image_3{
+        position: absolute;
+        width: 12px;
+        height: 10.87px;
+        left: 80px;
+        top: 80.59px;
+    }
+
+    .footer_3{
+        position: absolute;
+        width: 329px;
+        height: 13.58px;
+        left: 101px;
+        top: 77.87px;
+        
+        
+        font-style: normal;
+        font-weight: 400;
+        font-size: 12px;
+        line-height: 15px;
+        text-align: center;
+        
+        color: #FFFFFF
+    }
+
+    .footer_image_4{
+        position: absolute;
+        width: 28px;
+        height: 25.35px;
+        left: 595px;
+        top: 23.54px;
+    }
+
+    .footer_image_5{
+        position: absolute;
+        width: 28px;
+        height: 25.35px;
+        left: 634px;
+        top: 23.54px;
+    }
+
+
+    }
+
+
+
+
+
+
+
+    @media(max-width: 320px){
+        .Blok_1{
+            background-image: url(img/Rectangle\ 23.jpg);
+            position: absolute;
+            width: 320px;
+            height: 154.57px;
+            left: 0px;
+            top: 0px;
+        }
+    
+        .menu-list{
+            display: flex;
+            list-style: none;
+            margin-left: 60px;
+            margin-top: 1px;
+           
+            
+            
+        }
+        .menu{
+            text-decoration: none;
+            font-family: 'Inter';
+            font-style: normal;
+            font-weight: 700;
+            font-size: 4px;
+            line-height: 3px;
+            
+            color: #FFFFFF;
+        }
+        .menu_li{
+            padding: 4px;
+          margin-top: 1px;
+          text-decoration: none;
+        }
+        
+        .menu_li:hover .menu{
+            color: #F5B83F;
+            transition: 300ms;
+        }
+        
+        
+        .logo{
+           
+           width: 21px;
+           height: 21px;
+           margin-top: 5px;
+        }
+        
+        .hh_1{
+            position: absolute;
+            width: 113px;
+            height: 15px;
+            left: 103px;
+            top: 45px;
+            
+            font-family: 'Inter';
+            font-style: normal;
+            font-weight: 700;
+            font-size: 12px;
+            line-height: 15px;
+            /* identical to box height */
+            
+            text-align: center;
+            
+            color: #F5B83F;
+                
+        }
+
+        .Blok_2{
+            background-image: url(img/dostoprimechatelnosti-ingushetii\ 333.jpg);
+            position: absolute;
+            width: 320px;
+            height: 946px;
+            left: 0px;
+            top: 155px;
+        }
+
+        .image_1{
+            position: absolute;
+            width: 70px;
+            height: 103px;
+            left: 70px;
+            top: 21px;
+        }
+
+        .zagolovok_1{
+            position: absolute;
+            width: 121px;
+            height: 10px;
+            left: 149px;
+            top: 40px;
+            
+            font-family: 'Inter';
+            font-style: normal;
+            font-weight: 700;
+            font-size: 8px;
+            line-height: 10px;
+            /* identical to box height */
+            
+            text-align: center;
+            
+            color: #FFFFFF;
+        }
+
+        .zagolovok_2{
+            position: absolute;
+            width: 147px;
+            height: 29px;
+            left: 149px;
+            top: 78px;
+            
+            font-family: 'Inter';
+            font-style: normal;
+            font-weight: 700;
+            font-size: 12px;
+            line-height: 15px;
+            
+            color: #FFFFFF;
+        }
+
+        .zagolovok_3{
+            position: absolute;
+            width: 80px;
+            height: 11px;
+            left: 120px;
+            top: 179px;
+            
+            font-family: 'Inter';
+            font-style: normal;
+            font-weight: 400;
+            font-size: 9px;
+            line-height: 11px;
+            /* identical to box height */
+            
+            
+            color: #FFFFFF;
+        }
+
+        .biografiya_1{
+            position: absolute;
+            width: 193px;
+            height: 212px;
+            left: 64px;
+            top: 213px;
+            
+            font-family: 'Inter';
+            font-style: normal;
+            font-weight: 400;
+            font-size: 9px;
+            line-height: 11px;
+            
+            color: #FFFFFF;
+        }
+
+        .biografiya_2{
+            position: absolute;
+            width: 193px;
+            height: 212px;
+            left: 64px;
+            top: 342px;
+            
+            font-family: 'Inter';
+            font-style: normal;
+            font-weight: 400;
+            font-size: 9px;
+            line-height: 11px;
+            
+            color: #FFFFFF;
+        }
+
+        .biografiya_3{
+            position: absolute;
+            width: 193px;
+            height: 212px;
+            left: 64px;
+            top: 430px;
+            
+            font-family: 'Inter';
+            font-style: normal;
+            font-weight: 400;
+            font-size: 9px;
+            line-height: 11px;
+            
+            color: #FFFFFF;
+        }
+
+        .biografiya_4{
+            position: absolute;
+            width: 193px;
+            height: 212px;
+            left: 64px;
+            top: 560px;
+            
+            font-family: 'Inter';
+            font-style: normal;
+            font-weight: 400;
+            font-size: 9px;
+            line-height: 11px;
+            
+            color: #FFFFFF;
+        }
+
+        .image_2{
+            position: absolute;
+            width: 86.11px;
+            height: 68.01px;
+            left: 69.68px;
+            top: 695.36px;
+        }
+
+        .image_3{
+            position: absolute;
+            width: 83.05px;
+            height: 67.75px;
+            left: 167.26px;
+            top: 695.36px;
+        }
+
+        .image_4{
+            position: absolute;
+            width: 86.11px;
+            height: 69.64px;
+            left: 69.68px;
+            top: 784.2px;
+        }
+
+        .image_5{
+            position: absolute;
+            width: 82.95px;
+            height: 69.56px;
+            left: 167.37px;
+            top: 784.2px;
+        }
+
+        .footer{
+            position: absolute;
+            width: 320px;
+            height: 55px;
+            left: 0px;
+            top: 891px;
+            
+            background: rgba(0, 0, 0, 0.5);
+        }
+        
+        .footer_zagolovok{
+            position: absolute;
+            width: 43px;
+            height: 9px;
+            left: 28px;
+            top: 4.44px;
+            
+          
+            font-style: normal;
+            font-weight: 400;
+            font-size: 9px;
+            line-height: 11px;
+            text-align: center;
+            
+            color: #FFFFFF;
+        }
+        
+        .footer_image_1{
+            position: absolute;
+            width: 4px;
+            height: 4px;
+            left: 29px;
+            top: 19px;   
+        }
+        
+        .footer_1{
+            position: absolute;
+            width: 57px;
+            height: 6px;
+            left: 36px;
+            top: 17px;
+            
+           
+            font-style: normal;
+            font-weight: 400;
+            font-size: 6px;
+            line-height: 8px;
+            text-align: center;
+            
+            color: #FFFFFF;
+        }
+        
+        .footer_image_2{
+            position: absolute;
+            width: 4px;
+            height: 4px;
+            left: 29px;
+            top: 28px;
+        }
+        
+        .footer_2{
+            position: absolute;
+            width: 51px;
+            height: 6px;
+            left: 36px;
+            top: 26px;
+            
+            
+            font-style: normal;
+            font-weight: 400;
+            font-size: 6px;
+            line-height: 8px;
+            
+            color: #FFFFFF;
+        }
+        
+        .footer_image_3{
+            position: absolute;
+            width: 4px;
+            height: 5px;
+            left: 29px;
+            top: 36px;    
+        }
+        
+        .footer_3{
+            position: absolute;
+            width: 166px;
+            height: 7px;
+            left: 35px;
+            top: 35px;
+            
+          
+            font-style: normal;
+            font-weight: 400;
+            font-size: 6px;
+            line-height: 8px;
+            text-align: center;
+            
+            color: #FFFFFF;
+        }
+        
+        .footer_image_4{
+            position: absolute;
+            width: 10.74px;
+            height: 9.99px;
+            left: 228px;
+            top: 15px;
+        }
+        
+        .footer_image_5{
+            position: absolute;
+            width: 10.74px;
+            height: 9.99px;
+            left: 243px;
+            top: 15px;
+        }
+
+
+    }
